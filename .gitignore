@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+*.env
+
+# MediaPipe model (large, don't commit)
+gesture_recognizer.task
+
+# macOS / Linux junk
+.DS_Store
+Thumbs.db
